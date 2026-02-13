@@ -8,6 +8,7 @@
 #
 
 library(shiny)
+library(htmltools)
 
 # Set working directory to parent directory
 #setwd("..")
