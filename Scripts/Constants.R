@@ -36,7 +36,7 @@ SERVERROLES_LABEL <- "::SERVERROLES::"
 
 
 # API 
-NAGIOS_API_KEY <- readLines("nagios-api-key.txt")[1] # Nagios API KEY
+NAGIOS_API_KEY <- readLines("./Scripts/nagios-api-key.txt")[1] # Nagios API KEY
 NAGIOS_IP <- "172.16.30.11" # Nagios server IP address
 
 # Region info
