@@ -1,0 +1,156 @@
+This text file is used when populating the form for generating a report. 
+Clients are seperated by an empty line. 
+The first line is the name of the client. 
+Different categories are specified by the category name followed by a ":"
+Information on that category is then listed each item on a new line.
+
+ACTO
+IP: 
+169.254.95.120
+Router:
+ACTO - Router (Internet - ACTO)
+Servers:
+ACTO Backup Server
+ACTO DC
+ACTO HyperV
+ACTO RDP
+
+ACH
+Router:
+ACH - Router (Internet - ACH)
+Servers:
+ACH Backup Server
+ACH DC_Radix
+ACH HyperV
+ACH RDP
+
+Caring 4 Smiles
+Router:
+C4S - Router (Internet - Caring 4 Smiles)
+Servers:
+C4S AD Server
+C4S HyperV
+C4S SQL
+
+City Eye Specialists
+Router:
+CES - Router - Grafton (Internet - City Eye Specialists)
+CES - Router - Howick (Internet - City Eye Specialists)
+Servers:
+CES DC
+CES OCT
+CES RDP
+CES SQL03-VIP
+
+Corneal Lens
+Router:
+CLC - Router (Internet - Corneal Lens)
+Servers:
+CLC DC
+CLC HyperV
+CLC RDP
+CLC SQL AppServer
+CLC SQL at FusionDC
+
+Earth Care
+Router:
+EarthCare - Router - Greenfingers (Internet - EarthCare - Greenfingers)
+EarthCare - Router - Masterton (Internet - Earthcare - Masterton)
+EarthCare - Router - Masterton Finance Office (Internet - EarthCare - Masterton)
+Servers:
+EarthCare Backup Server
+EarthCare DC
+EarthCare Mapview
+EarthCare GEMS APi-Server
+EarthCare GFAddress
+EarthCare GFGems2022
+EarthCare RDP
+
+FEL Group
+Router:
+FEL - Router (Internet - FEL)
+Servers:
+FEL DC
+FEL HyperV
+FEL RDP
+
+IELNZ
+Router:
+IELNZ - Router (Internet - IELNZ)
+Servers:
+IELNZ HyperV
+IELNZ Server
+IELNZ Ventas01
+
+Maison Vauron
+Router:
+Maison - Router - 43 Felix (Internet - Maison - 43 Felix)
+Maison - Router - 49 Felix (Internet - Maison - 49 Felix)
+Servers:
+Maison DC
+Maison HyperV02 – POS at Maison
+Maison RDP
+Maison SQL
+
+Rand Group
+Router:
+Rand Group - Router (Internet - Rand Group - Silverdale)
+Servers:
+RandGroup DC
+RandGroup RDP
+
+Smart
+Router:
+Smart - Router - AA Support Office (Internet - Smart - Support Office)
+Smart - Router - Buller RTS (Internet - Smart - Buller)
+Smart - Router - Collingwood RTS (Internet - Smart - Collingwood)
+Smart - Router - Cromwell (Internet - Smart - Cromwell)
+Smart - Router - Dannevirke (Internet - Smart - Dannevirke)
+Smart - Router - Feilding RTS (Internet - Smart - Feilding)
+Smart - Router - Greymouth (Internet - Smart - Greymouth)
+Smart - Router - Hokitika (Internet - Smart - Hokitika)
+Smart - Router - Kopu Commercial (Internet - Smart - Kopu Commercial)
+Smart - Router - Kopu MRF (Internet - Smart - Kopu MRF)
+Smart - Router - Mariri (Internet - Smart - Mariri)
+Smart - Router - Mt Wellington (Internet - Smart - Mt Wellington)
+Smart - Router - Napier (Internet - Smart - Napier)
+Smart - Router - Nelson_Tasman (Internet - Smart - Nelson_Tasman)
+Smart - Router - Okere RTS - RBI (Internet - Smart - Okere)
+Smart - Router - Onehunga - Waste Skip (Internet - Smart - Onehunga)
+Smart - Router - Palmerston North Tyres (Internet - Smart - Palmerston North)
+Smart - Router - Queenstown (Internet - Smart - Queestown)
+Smart - Router - Reefton RTS (Internet - Smart - Reefton RTS)
+Smart - Router - Rotorua Office (Internet - Smart - Rotorua)
+Smart - Router - Silverdale (Internet - Smart - Silverdale)
+Smart - Router - Takaka (Internet - Smart - Takaka)
+Smart - Router - Tuakau (Internet - Smart - Tuakau)
+Smart - Router - Waipukurau RTS - RBI (Internet - Smart - Waipukurau)
+Smart - Router - Wairoa (Internet - Smart - Wairoa)
+Smart - Router - Westport RTS - RBI (Internet - Smart - Westport)
+Smart - Router - Whenuapai (Internet - Smart - Whenuapai)
+Servers:
+Smart ADFS
+Smart Backup Server
+Smart DC
+Smart Gateway Server
+Smart GreenTree SEL-GT21
+Smart HyperV02 Napier
+Smart HyperV03
+Smart RDP
+
+SPCNM
+Router:
+SPCNM - Router (Internet - SPCNM)
+Servers:
+SPCNM DC
+SPCNM HyperV
+SPCNM RDP
+
+TTT
+Router:
+TTT - Router (Internet - TTT)
+Servers:
+TTT Backup Server
+TTT DC
+TTT HyperV
+TTT RDP

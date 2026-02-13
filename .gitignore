@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+/dist/*
+!/dist/.gitkeep
+Scripts/nagios-api-key.txt
